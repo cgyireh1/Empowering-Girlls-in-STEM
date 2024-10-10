@@ -1,1 +1,1 @@
-# Empowering-Girlls-in-STEM
+# Empowering-Girls-in-STEM
