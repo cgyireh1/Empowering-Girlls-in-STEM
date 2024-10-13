@@ -21,12 +21,13 @@ The dataset used in this project is the **Student Performance Data** from Keggle
    - **Optimized Model**: 
      - Test Loss: 0.1631
      - Test Accuracy: 94.99%
+- The optimized model shows an improvement in both test loss and accuracy compared to the simple model. This indicates that the optimizations have effectively enhanced the model's ability to generalize to unseen data rather than cramming the data.
    
 2. **F1 Score and Specificity**:
    - F1 Score: 0.9143, indicating a good balance between precision and recall.
-   - Specificity: 0.9684, showing the model's effectiveness at correctly identifying students who are not pursuing STEM.
+   - Specificity: 0.9684, showing the model's effectiveness at correctly identifying students who are likely not pursue STEM.
 
-3. **Confusion Matrix**: The confusion matrices for both models show the distribution of true and predicted classes, providing insight into the model's performance.
+3. **Confusion Matrix**: The confusion matrices reveal how well the models distinguish between students likely to pursue STEM careers and those who are not. A lower number of false positives and false negatives in the optimized model suggests better classification performance.
 
 ### Instructions for Running the Notebook
 1. **Loading the Notebook**:
