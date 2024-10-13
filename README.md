@@ -87,3 +87,4 @@ The dataset used in this project is the **Student Performance Data** from Keggle
 ### Conclusion
 
 The combination of these optimization techniques has resulted in improved model performance, as evidenced by the significant reduction in loss and increase in accuracy in the optimized model.
+The findings can from this model can help inform educators, NGO's, STEM enthusiasts, and policymakers about key factors that influence girls' interest in STEM fields, allowing for targeted interventions and support systems.
