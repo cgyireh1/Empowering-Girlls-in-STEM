@@ -14,11 +14,12 @@ The dataset used in this project is the **Student Performance Data** from Keggle
 - **Demographic Information**: Age, Gender, Ethnicity
 - **Educational Factors**: Parental Education, GPA, Study Time, Absences
 - **Extracurricular Activities**: Tutoring, Sports, Music, Volunteering
-- **Target Variable**: GPA_Pass (indicating whether the student has a GPA greater than 2.5)
+- **Target Variable**: GPA_Pass (indicating that a student having a GPA greater than 2.5 is considered a pass)
+- 
 
 ### Key Findings
 1. **Model Performance**:
-   - **Simple Model**: 
+   - **The Simple Model (Model Without Optimization techniques)**: 
      - Test Loss: 0.5713
      - Test Accuracy: 92.48%
    - **Optimized Model**: 
