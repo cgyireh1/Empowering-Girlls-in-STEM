@@ -56,7 +56,7 @@ The dataset used in this project is the **Student Performance Data** from Keggle
 
 ### 1. Early Stopping
 - **Principle**: Early stopping is a regularization technique used to prevent overfitting during training. It monitors the model's performance on the validation dataset and halts training when performance stops improving.
-- **Implementation**: As shown in cell 11 and as below.👇
+- **Implementation**: As shown in cell 11 of the notebook and as below.👇
   ```python
   early_stopping = EarlyStopping(monitor='val_loss', patience=5)
   ```
@@ -91,4 +91,4 @@ The dataset used in this project is the **Student Performance Data** from Keggle
 ### Conclusion
 
 The combination of these optimization techniques has resulted in improved model performance, as evidenced by the significant reduction in loss and increase in accuracy in the optimized model.
-The findings can from this model can help inform educators, NGO's, STEM enthusiasts, and policymakers about key factors that influence girls' interest in STEM fields, allowing for targeted interventions and support systems.
+The findings from this model can help inform educators, NGO's, STEM enthusiasts, and policymakers about key factors that influence girls' interest in STEM fields(various demographic, educational, and extracurricular factors), allowing for targeted interventions and support systems.
