@@ -8,6 +8,9 @@ The primary objective of this project is to analyze factors influencing girls' p
 ### Dataset Used
 The dataset used in this project is the **Student Performance Data** from Keggle. It contains 2392 samples and 16 features, including:
 
+[Uploading Student_performance_data _.csv…]()
+
+
 - **Demographic Information**: Age, Gender, Ethnicity
 - **Educational Factors**: Parental Education, GPA, Study Time, Absences
 - **Extracurricular Activities**: Tutoring, Sports, Music, Volunteering
