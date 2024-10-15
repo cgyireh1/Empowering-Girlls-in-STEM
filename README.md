@@ -31,7 +31,7 @@ The dataset used in this project is the **Student Performance Data** from Keggle
    - F1 Score: 0.9143, indicating a good balance between precision and recall.
    - Specificity: 0.9684, showing the model's effectiveness at correctly identifying students who are likely not pursue STEM.
 
-3. **Confusion Matrix**: The confusion matrices reveal how well the models distinguish between students likely to pursue STEM careers and those who are not. A lower number of false positives and false negatives in the optimized model suggests better classification performance.
+3. **Confusion Matrix**: The confusion matrices show how well the models distinguish between students likely to pursue STEM careers and those not. A lower number of false positives and false negatives in the optimized model suggesting a better classification performance.
 
 ### Instructions for Running the Notebook
 1. **Loading the Notebook**:
